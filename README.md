@@ -1,7 +1,7 @@
 # Time-Machine
 An augmented reality mobile app created for the ArtBytes Hackathon.
 
-Time Machine is an interactive storytelling mobile application that uses augmented reality to reveal the hidden stories behind the many objects in the collection of the Walter's Museum in Baltimore, MD. Working with a team of conservators, administrators and technical staff, we were given access to archived documents and materials not typically available to the visiting public. Using Augmented Reality technology, we can enrich the gallery visitor's experience, add new context to the exhibited objects and reveal the many layers of information about each piece.
+Time Machine is an interactive storytelling mobile application that uses augmented reality to reveal the hidden stories behind the many objects in the collection of the Walters Museum in Baltimore, MD. Working with a team of conservators, administrators and technical staff, we were given access to archived documents and materials not typically available to the visiting public. Using Augmented Reality technology, we can enrich the gallery visitor's experience, add new context to the exhibited objects and reveal the many layers of information about each piece.
 
 Programmed in Objective C using the [Vuforia Software Development Kit](https://developer.qualcomm.com/mobile-development/add-advanced-features/augmented-reality-vuforia).
 
